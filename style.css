@@ -8,3 +8,12 @@ body{
 #color{
     color: orange;
 }
+.fst{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.fst img{
+    width: 100%;
+}
