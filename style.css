@@ -17,3 +17,22 @@ body{
 .fst img{
     width: 100%;
 }
+.fats{
+    background-image: url("images/top-banner.png");
+   background-repeat: no-repeat;
+    
+}
+section{
+    height: 500px;
+}
+body{
+    margin: 0px;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg,salmon, tomato);
+    font-weight: 700;
+    border-radius: 5px;
+}
